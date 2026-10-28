@@ -2,7 +2,7 @@
 
 A hospital readmission project with three parts: a patient level risk model, a fairness audit, and a look at how US hospitals compare today. A checked note explains each flagged discharge using only facts from the data.
 
-**Live demo:**https://hospital-readmission-risk-audit-bmoufysvc2nnqmzasiyn2v.streamlit.app/
+**Live demo:** https://hospital-readmission-risk-audit-bmoufysvc2nnqmzasiyn2v.streamlit.app/
 
 
 ![Report view with slicers](assets/readmit_report.gif)
