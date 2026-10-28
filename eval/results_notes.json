@@ -1,0 +1,40 @@
+{
+ "discharges": 400,
+ "clean_notes_passed": 400,
+ "mutations": {
+  "wrong_number": {
+   "tried": 400,
+   "caught": 399
+  },
+  "causal_wording": {
+   "tried": 400,
+   "caught": 400
+  },
+  "unknown_id": {
+   "tried": 400,
+   "caught": 400
+  },
+  "invented_number": {
+   "tried": 400,
+   "caught": 400
+  },
+  "drops_risk": {
+   "tried": 400,
+   "caught": 400
+  },
+  "drops_limits": {
+   "tried": 400,
+   "caught": 400
+  },
+  "no_citation": {
+   "tried": 400,
+   "caught": 400
+  },
+  "causal_leads_to": {
+   "tried": 400,
+   "caught": 400
+  }
+ },
+ "total_tried": 3200,
+ "total_caught": 3199
+}

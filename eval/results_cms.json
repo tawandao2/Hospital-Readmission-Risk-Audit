@@ -1,0 +1,259 @@
+{
+ "period": "07/01/2021 to 06/30/2024",
+ "hospitals": 3055,
+ "reported_pairs": 11720,
+ "suppressed_pairs": 6610,
+ "by_condition": [
+  {
+   "condition": "Bypass surgery",
+   "hospitals": 878,
+   "share_worse_than_expected": 0.499,
+   "median_ratio": 1.0,
+   "p90_ratio": 1.117
+  },
+  {
+   "condition": "COPD",
+   "hospitals": 2323,
+   "share_worse_than_expected": 0.472,
+   "median_ratio": 0.997,
+   "p90_ratio": 1.06
+  },
+  {
+   "condition": "Heart attack",
+   "hospitals": 1736,
+   "share_worse_than_expected": 0.497,
+   "median_ratio": 0.999,
+   "p90_ratio": 1.084
+  },
+  {
+   "condition": "Heart failure",
+   "hospitals": 2621,
+   "share_worse_than_expected": 0.489,
+   "median_ratio": 0.998,
+   "p90_ratio": 1.086
+  },
+  {
+   "condition": "Hip and knee replacement",
+   "hospitals": 1447,
+   "share_worse_than_expected": 0.479,
+   "median_ratio": 0.992,
+   "p90_ratio": 1.205
+  },
+  {
+   "condition": "Pneumonia",
+   "hospitals": 2715,
+   "share_worse_than_expected": 0.468,
+   "median_ratio": 0.996,
+   "p90_ratio": 1.088
+  }
+ ],
+ "by_size": [
+  {
+   "condition": "Bypass surgery",
+   "size": "small",
+   "n": 121,
+   "share_worse": 0.909,
+   "median_ratio": 1.098
+  },
+  {
+   "condition": "Bypass surgery",
+   "size": "medium",
+   "n": 121,
+   "share_worse": 0.554,
+   "median_ratio": 1.01
+  },
+  {
+   "condition": "Bypass surgery",
+   "size": "large",
+   "n": 121,
+   "share_worse": 0.364,
+   "median_ratio": 0.951
+  },
+  {
+   "condition": "COPD",
+   "size": "small",
+   "n": 515,
+   "share_worse": 0.676,
+   "median_ratio": 1.018
+  },
+  {
+   "condition": "COPD",
+   "size": "medium",
+   "n": 515,
+   "share_worse": 0.515,
+   "median_ratio": 1.002
+  },
+  {
+   "condition": "COPD",
+   "size": "large",
+   "n": 515,
+   "share_worse": 0.517,
+   "median_ratio": 1.002
+  },
+  {
+   "condition": "Heart attack",
+   "size": "small",
+   "n": 414,
+   "share_worse": 0.722,
+   "median_ratio": 1.032
+  },
+  {
+   "condition": "Heart attack",
+   "size": "medium",
+   "n": 413,
+   "share_worse": 0.535,
+   "median_ratio": 1.005
+  },
+  {
+   "condition": "Heart attack",
+   "size": "large",
+   "n": 413,
+   "share_worse": 0.443,
+   "median_ratio": 0.99
+  },
+  {
+   "condition": "Heart failure",
+   "size": "small",
+   "n": 772,
+   "share_worse": 0.595,
+   "median_ratio": 1.012
+  },
+  {
+   "condition": "Heart failure",
+   "size": "medium",
+   "n": 772,
+   "share_worse": 0.504,
+   "median_ratio": 1.001
+  },
+  {
+   "condition": "Heart failure",
+   "size": "large",
+   "n": 772,
+   "share_worse": 0.439,
+   "median_ratio": 0.991
+  },
+  {
+   "condition": "Hip and knee replacement",
+   "size": "small",
+   "n": 85,
+   "share_worse": 0.906,
+   "median_ratio": 1.186
+  },
+  {
+   "condition": "Hip and knee replacement",
+   "size": "medium",
+   "n": 84,
+   "share_worse": 0.5,
+   "median_ratio": 0.997
+  },
+  {
+   "condition": "Hip and knee replacement",
+   "size": "large",
+   "n": 84,
+   "share_worse": 0.202,
+   "median_ratio": 0.848
+  },
+  {
+   "condition": "Pneumonia",
+   "size": "small",
+   "n": 774,
+   "share_worse": 0.552,
+   "median_ratio": 1.007
+  },
+  {
+   "condition": "Pneumonia",
+   "size": "medium",
+   "n": 773,
+   "share_worse": 0.499,
+   "median_ratio": 1.0
+  },
+  {
+   "condition": "Pneumonia",
+   "size": "large",
+   "n": 773,
+   "share_worse": 0.486,
+   "median_ratio": 0.998
+  }
+ ],
+ "states_best": [
+  {
+   "State": "OR",
+   "hospitals": 32,
+   "pairs": 131,
+   "share_worse": 0.229,
+   "median_ratio": 0.962
+  },
+  {
+   "State": "UT",
+   "hospitals": 29,
+   "pairs": 99,
+   "share_worse": 0.202,
+   "median_ratio": 0.963
+  },
+  {
+   "State": "KS",
+   "hospitals": 42,
+   "pairs": 157,
+   "share_worse": 0.299,
+   "median_ratio": 0.968
+  },
+  {
+   "State": "CO",
+   "hospitals": 45,
+   "pairs": 183,
+   "share_worse": 0.268,
+   "median_ratio": 0.969
+  },
+  {
+   "State": "WA",
+   "hospitals": 45,
+   "pairs": 207,
+   "share_worse": 0.28,
+   "median_ratio": 0.97
+  }
+ ],
+ "states_worst": [
+  {
+   "State": "MA",
+   "hospitals": 52,
+   "pairs": 240,
+   "share_worse": 0.625,
+   "median_ratio": 1.031
+  },
+  {
+   "State": "NJ",
+   "hospitals": 61,
+   "pairs": 272,
+   "share_worse": 0.654,
+   "median_ratio": 1.028
+  },
+  {
+   "State": "IL",
+   "hospitals": 109,
+   "pairs": 491,
+   "share_worse": 0.578,
+   "median_ratio": 1.014
+  },
+  {
+   "State": "FL",
+   "hospitals": 164,
+   "pairs": 771,
+   "share_worse": 0.575,
+   "median_ratio": 1.014
+  },
+  {
+   "State": "MS",
+   "hospitals": 50,
+   "pairs": 185,
+   "share_worse": 0.611,
+   "median_ratio": 1.011
+  }
+ ],
+ "cross_condition_corr_mean": 0.218198838037991,
+ "hf_pn_corr": 0.3708496725108913,
+ "hospitals_4plus_conditions": 1908,
+ "consistently_worse_all": 143,
+ "consistently_worse_share": 0.0749475890985325,
+ "chance_share_all_worse_if_independent": 0.05369225988513565,
+ "max_ratio_mismatch": 6.467559875944495e-05
+}

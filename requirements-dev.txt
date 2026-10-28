@@ -1,0 +1,5 @@
+-r requirements.txt
+scikit-learn
+numpy
+pytest
+google-generativeai

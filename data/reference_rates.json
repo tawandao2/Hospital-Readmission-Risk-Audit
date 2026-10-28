@@ -1,0 +1,185 @@
+{
+ "train_n": 59605,
+ "train_rate": 0.11353074406509521,
+ "median_diagnoses": 8.0,
+ "median_los": 4.0,
+ "median_meds": 15.0,
+ "by_prior_inpatient": {
+  "0": {
+   "rate": 0.08532225579053374,
+   "n": 39720
+  },
+  "1": {
+   "rate": 0.13237611626685344,
+   "n": 11422
+  },
+  "2": {
+   "rate": 0.17886550777676122,
+   "n": 4372
+  },
+  "3 or more": {
+   "rate": 0.26497188951356637,
+   "n": 4091
+  }
+ },
+ "by_disposition": {
+  "1": {
+   "rate": 0.09438028402497652,
+   "n": 36194
+  },
+  "2": {
+   "rate": 0.15856573705179283,
+   "n": 1255
+  },
+  "3": {
+   "rate": 0.13888554579371765,
+   "n": 8309
+  },
+  "4": {
+   "rate": 0.10953346855983773,
+   "n": 493
+  },
+  "5": {
+   "rate": 0.20414201183431951,
+   "n": 676
+  },
+  "6": {
+   "rate": 0.12917737789203085,
+   "n": 7780
+  },
+  "7": {
+   "rate": 0.1417910447761194,
+   "n": 402
+  },
+  "8": {
+   "rate": 0.13793103448275862,
+   "n": 58
+  },
+  "9": {
+   "rate": 0.35714285714285715,
+   "n": 14
+  },
+  "10": {
+   "rate": 0.0,
+   "n": 5
+  },
+  "12": {
+   "rate": 0.6666666666666666,
+   "n": 3
+  },
+  "15": {
+   "rate": 0.4358974358974359,
+   "n": 39
+  },
+  "16": {
+   "rate": 0.0,
+   "n": 4
+  },
+  "17": {
+   "rate": 0.0,
+   "n": 7
+  },
+  "18": {
+   "rate": 0.11956521739130435,
+   "n": 2208
+  },
+  "22": {
+   "rate": 0.2919768403639371,
+   "n": 1209
+  },
+  "23": {
+   "rate": 0.06349206349206349,
+   "n": 252
+  },
+  "24": {
+   "rate": 0.07407407407407407,
+   "n": 27
+  },
+  "25": {
+   "rate": 0.08117443868739206,
+   "n": 579
+  },
+  "27": {
+   "rate": 0.0,
+   "n": 3
+  },
+  "28": {
+   "rate": 0.3409090909090909,
+   "n": 88
+  }
+ },
+ "by_dx1": {
+  "circulatory": {
+   "rate": 0.1165287407738761,
+   "n": 17884
+  },
+  "diabetes": {
+   "rate": 0.13151750972762646,
+   "n": 5140
+  },
+  "digestive": {
+   "rate": 0.10354660488326502,
+   "n": 5611
+  },
+  "genitourinary": {
+   "rate": 0.10700132100396301,
+   "n": 3028
+  },
+  "injury": {
+   "rate": 0.12864197530864196,
+   "n": 4050
+  },
+  "missing": {
+   "rate": 0.18181818181818182,
+   "n": 11
+  },
+  "musculoskeletal": {
+   "rate": 0.08979861340376362,
+   "n": 3029
+  },
+  "neoplasms": {
+   "rate": 0.10904255319148937,
+   "n": 1880
+  },
+  "other": {
+   "rate": 0.11895104235449486,
+   "n": 10601
+  },
+  "respiratory": {
+   "rate": 0.10046589415840401,
+   "n": 8371
+  }
+ },
+ "labels": {
+  "1": "Discharged to home",
+  "2": "Discharged/transferred to another short term hospital",
+  "3": "Discharged/transferred to SNF",
+  "4": "Discharged/transferred to ICF",
+  "5": "Discharged/transferred to another type of inpatient care institution",
+  "6": "Discharged/transferred to home with home health service",
+  "7": "Left AMA",
+  "8": "Discharged/transferred to home under care of Home IV provider",
+  "9": "Admitted as an inpatient to this hospital",
+  "10": "Neonate discharged to another hospital for neonatal aftercare",
+  "11": "Expired",
+  "12": "Still patient or expected to return for outpatient services",
+  "13": "Hospice / home",
+  "14": "Hospice / medical facility",
+  "15": "Discharged/transferred within this institution to Medicare approved swing bed",
+  "16": "Discharged/transferred/referred another institution for outpatient services",
+  "17": "Discharged/transferred/referred to this institution for outpatient services",
+  "18": "NULL",
+  "19": "Expired at home. Medicaid only, hospice.",
+  "20": "Expired in a medical facility. Medicaid only, hospice.",
+  "21": "Expired, place unknown. Medicaid only, hospice.",
+  "22": "Discharged/transferred to another rehab fac including rehab units of a hospital .",
+  "23": "Discharged/transferred to a long term care hospital.",
+  "24": "Discharged/transferred to a nursing facility certified under Medicaid but not certified under Medicare.",
+  "25": "Not Mapped",
+  "26": "Unknown/Invalid",
+  "30": "Discharged/transferred to another Type of Health Care Institution not Defined Elsewhere",
+  "27": "Discharged/transferred to a federal health care facility.",
+  "28": "Discharged/transferred/referred to a psychiatric hospital of psychiatric distinct part unit of a hospital",
+  "29": "Discharged/transferred to a Critical Access Hospital (CAH)."
+ }
+}
